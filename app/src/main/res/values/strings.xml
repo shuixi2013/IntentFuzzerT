@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IntentFuzzerT</string>
+    <string name="sysytem">System apk</string>
+    <string name="title_activity_fuzzer">FuzzerActivity</string>
+    <string name="expored">暴露的组件如下，点击相应的组件后开始测试</string>
+</resources>
